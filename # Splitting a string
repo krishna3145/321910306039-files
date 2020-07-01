@@ -1,0 +1,3 @@
+ list_string = split_string(string) 
+
+    print(list_string) 
