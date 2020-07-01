@@ -1,0 +1,3 @@
+new_string = join_string(list_string) 
+
+    print(new_string)
