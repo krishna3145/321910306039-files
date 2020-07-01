@@ -1,0 +1,3 @@
+list_string = string.split(' ') 
+return list_string 
+def join_string(list_string): 
